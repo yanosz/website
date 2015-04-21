@@ -1,0 +1,29 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>kbu.freifunk.net - Blog</title>
+  <link href="https://kbu.freifunk.net"/>
+  <link type="application/atom+xml" rel="self" href="https://kbu.freifunk.net/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>https://kbu.freifunk.net</id>
+  <author>
+    <name>Freifunk-KBU</name>
+    <email>info@kbu.freifunk.net</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>https://kbu.freifunk.net{{ post.id }}</id>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>{{post.author}}</name>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+ 
+</feed>
