@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 1.9
 script:
-  - bundle exec jekyll build
+  - bundle exec jekyll build --trace
   - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
 env:
   global:
