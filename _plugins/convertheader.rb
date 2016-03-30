@@ -25,11 +25,8 @@ module Jekyll
         doc.css("h" + i.to_s).each do |entry|
           new_level = i + mode
           new_node = Nokogiri::HTML.fragment(
-            '<h' + new_level.to_s + '>X</h' + new_level.to_s + '>'
+            '<h' + new_level.to_s + ">#{entry.inner_html}</h" + new_level.to_s + '>'
           )
-          puts "Entry: #{entry}"
-	  puts "New_nodes: #{new_node}"
-	 new_node.first_element_child.inner_html = entry.inner_html
          entry.replace new_node
         end
 
