@@ -27,7 +27,7 @@ module Jekyll
           new_node = Nokogiri::HTML.fragment(
             '<h' + new_level.to_s + '>X</h' + new_level.to_s + '>'
           )
-          unless entry.inner_html.nil?
+          unless entry.nil?
             new_node.first_element_child.inner_html = entry.inner_html
             entry.replace new_node
           end
