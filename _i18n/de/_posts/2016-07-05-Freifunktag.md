@@ -24,14 +24,16 @@ Dieser Freifunk-Tag wird jedoch keine offizielle Veranstaltung des Freifunk Rhei
 
 ## Was erwartet Dich?
 
-Bislang ist nicht geplant ;-). Die Veranstaltung wird voraussichtlich ähnlich ablaufen wie ein *Wireless Community Weekend* (WCW). Es wird eine Reihe selbst organisierter Workshops und Talks geben. Zeiten und Inhalt werden wir im Wiki koordinieren: <a href="https://wiki.freifunk-rheinland.net/wiki/Freifunktag/2016-07">https://wiki.freifunk-rheinland.net/wiki/Freifunktag/2016-07</a>.
+Bislang ist nicht viel geplant ;-). Die Veranstaltung wird voraussichtlich ähnlich ablaufen wie ein *Wireless Community Weekend* (WCW). Es wird eine Reihe selbst organisierter Workshops und Talks geben. Zeiten und Inhalt werden wir im Wiki koordinieren: <a href="https://wiki.freifunk-rheinland.net/wiki/Freifunktag/2016-07">https://wiki.freifunk-rheinland.net/wiki/Freifunktag/2016-07</a>.
 
 ## Was erwarten wir von Dir?
 
 Komm vorbei und hab' Spaß:
 
-- Bring Dich auch aktiv in das Programm ein - z.B. mit einem kurzen Lightning-Talk, über was Du gerade baust. Die Veranstaltung lebt davon - keine Scheu.
+- Bring Dich auch aktiv in das Programm ein - z.B. mit einem kurzen Lightning-Talk, über was Du gerade baust. Die Veranstaltung lebt davon.
 - Trag Dich in die Wiki ein, damit wir planen können. Ein Pseudonym reicht völlig. Wichtig wären auch Kontaktdaten, wie wir Dich erreichen können.
+
+Wir schicken aber auch niemanden nach Hause, weil sie oder er nur zuhören will. Im Fokus steht der Erfahrungsaustausch zwischen Freifunkerinnen und Freifunkern. Es wäre daher genial, wenn Du Deine Erfahrungen weiter gibst.
 
 ## Was gibt es sonst noch?
 
