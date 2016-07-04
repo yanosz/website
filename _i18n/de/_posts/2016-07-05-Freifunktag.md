@@ -37,7 +37,7 @@ Wir schicken aber auch niemanden nach Hause, weil sie oder er nur zuhören will.
 
 ## Was gibt es sonst noch?
 
-Wir werden mit dem <a href="http://www.gartenwerkstadt-ehrenfeld.de/gartenbahnhof-ehrenfeld/">Gartenbahnhof Ehrenfeld</a> zusammen arbeiten. Am 23. Juli gibt es dort mglw. ein Sommerfest, zudem wir eingeladen sind - weiteres ist aktuell in Planung. Am 24.7. können wir dort grillen.
+Wir werden mit uns mit <a href="http://www.gartenwerkstadt-ehrenfeld.de/gartenbahnhof-ehrenfeld/">Gartenbahnhof Ehrenfeld</a> zusammen tun. Am 23. Juli gibt es dort mglw. ein Sommerfest, zudem wir eingeladen sind - weiteres ist aktuell in Planung. Am 24.7. können wir dort grillen.
 
 Aktuell plane ich einen Workshop, bei dem wir das Gelände dort vernetzen und die Performance verschiedener Meshes testen können. Mal schauen, was sich ergibt.
 
