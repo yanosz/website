@@ -7,7 +7,7 @@ date: 2016-05-30 21:00:00
 ## Ein Freifunk-Tag in Köln
 
 Wir planen zur Zeit einen Freifunk-Tag im <a href="http://koeln.ccc.de/c4/faq/index.xml#anreise">Chaos Computer Club Cologne (C4) e.V. </a>- am 23. und 24. Juli.
-Freifunktag sind.
+Freifunktag sind überregionale Treffen der Community.
 
 Hier ein paar Infos zum aktuellen Stand der Planung und dem was Euch erwartet.
 
