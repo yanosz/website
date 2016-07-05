@@ -21,7 +21,7 @@ Die Wiki des Freifunk Rheinland <a href= "https://wiki.freifunk-rheinland.net/wi
 > Vierteljährlich möchten wir uns an wechselnden Orten versammeln und wichtige Entscheidungen gemeinsam treffen. Es gibt Vorträge, gemeinsames Essen, Ausstellung von
 > Hardware und Socializing am Abend.
 
-Dieser Freifunk-Tag wird jedoch keine offizielle Veranstaltung des Freifunk Rheinland. Wir laden einfach ein - ganz <a href="/2016/05/Seid_dezentral/">dezentral</a>.
+Dieser Freifunk-Tag wird jedoch keine offizielle Veranstaltung des Freifunk Rheinland. Wir laden einfach ein - ganz dezentral.
 
 ## Was erwartet Dich?
 
